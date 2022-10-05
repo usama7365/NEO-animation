@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47.49336 8.4467">
+                <defs>
+                <mask id="home-hero-dline3">
+                    <path class="dline-mask" d="M47.24336.25C28.96794,5.90794,13.39635,8.265.25,8.1952" style="fill: none; stroke: white; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px; stroke-dashoffset: 0; stroke-dasharray: none;"/>
+                </mask>
+                </defs>
+                <g mask="url(#home-hero-dline3)">
+                <path d="M47.24336.25C28.96794,5.90794,13.39635,8.265.25,8.1952" style="fill:none;stroke:#212121;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5px;stroke-dasharray:6"/>
+                </g> 
+                </svg>

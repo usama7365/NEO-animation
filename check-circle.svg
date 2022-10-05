@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 22 0 22 22 0 22"></polygon>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pricing" transform="translate(-449.000000, -575.000000)">
+            <g id="Enterprise" transform="translate(388.000000, 303.000000)">
+                <g transform="translate(0.000000, 131.000000)" id="Group">
+                    <g transform="translate(61.000000, 141.000000)">
+                        <g id="Group-12">
+                            <g id="Group-8">
+                                <g id="Group-3" transform="translate(0.000000, 5.000000)">
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <g id="Clip-2"></g>
+                                    <path d="M22,11 C22,17.0761207 17.0755743,22 10.9987793,22 C4.9244257,22 0,17.0761207 0,11 C0,4.92509987 4.9244257,0 10.9987793,0 C17.0755743,0 22,4.92509987 22,11" id="Fill-1" fill="#A7FFEB" mask="url(#mask-2)"></path>
+                                </g>
+                                <polyline id="Stroke-4" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" points="8 14.5566665 11.0081617 19 26 0"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

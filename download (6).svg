@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 254.64484 48.62228">
+                            <defs>
+                            <mask id="home-api-dline2">
+                                <path class="dline-mask" d="M.25,26.77423c29.30649,8.43615,49.29147,36.97219,111.97475,5.73624,28.93727-14.41984,61.98262-5.06463,56.16909,8.64448-7.74277,18.25851-30.42012-1.4971-12.14771-21.87418C174.32537-.8809,217.51465-5.809,254.39484,8.28976" style="fill:none;stroke:white;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;"/>
+                            </mask>
+                            </defs>
+                            <g mask="url(#home-api-dline2)">
+                            <path d="M.25,26.77423c29.30649,8.43615,49.29147,36.97219,111.97475,5.73624,28.93727-14.41984,61.98262-5.06463,56.16909,8.64448-7.74277,18.25851-30.42012-1.4971-12.14771-21.87418C174.32537-.8809,217.51465-5.809,254.39484,8.28976" style="fill:none;stroke:#212121;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5px;stroke-dasharray:6"/>
+                            </g> 
+                            </svg>
